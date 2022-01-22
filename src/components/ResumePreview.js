@@ -35,7 +35,7 @@ const ResumePreview = () => {
 
                         <VStack mx={2} alignItems={'flex-start'} w={'full'} spacing={6}>
 
-                            // EDUCATION
+                            {/* // EDUCATION */}
                             <VStack alignItems={'flex-start'}>
 
                                 <Heading as='h4' size='md' color={'gray.700'}>EDUCATION</Heading>
@@ -57,9 +57,9 @@ const ResumePreview = () => {
                                 )}
 
                             </VStack>
-                            // EDUCATION
+                            {/* // EDUCATION
 
-                            // WORK EXPERIENCE
+                            // WORK EXPERIENCE */}
                             <VStack alignItems={'flex-start'}>
 
                                 <Heading as='h4' size='md' color={'gray.700'}>WORK EXPERIENCE</Heading>
@@ -79,13 +79,13 @@ const ResumePreview = () => {
                                 )}
 
                             </VStack>
-                            // WORK EXPERIENCE
+                            {/* // WORK EXPERIENCE */}
 
                         </VStack>
 
                         <VStack mx={2} alignItems={'flex-start'} w={'full'} spacing={6}>
 
-                            // SKILLS
+                            {/* // SKILLS */}
                             <VStack alignItems={'flex-start'}>
 
                                 <Heading as='h4' size='md' color={'gray.700'}>SKILLS</Heading>
@@ -104,9 +104,9 @@ const ResumePreview = () => {
                                     ))}
                                 </Wrap>
                             </VStack>
-                            // SKILLS
+                            {/* // SKILLS
 
-                            // PROJECTS
+                            // PROJECTS */}
                             <VStack alignItems={'flex-start'}>
 
                                 <Heading as='h4' size='md' color={'gray.700'}>PROJECTS</Heading>
@@ -126,7 +126,7 @@ const ResumePreview = () => {
                                 })}
 
                             </VStack>
-                            // PROJECTS
+                            {/* // PROJECTS */}
 
                         </VStack>
 
